@@ -1,2 +1,3 @@
 # Summary-of-the-article-Early-detection-of-fires-using-convolutional-neural-networks
-Un ’Framework’ de détection d’incendie utilisant des réseaux de neurones convolutifs (CNN) et l’Internet des objets multimédias (IoMT).
+Summary of the article Early detection of fires using convolutional neural networks pendant monitoring for effective management of catastrophic.
+A Fire Detection Framework using Convolutional Neural Networks (CNN) and the Internet of Multimedia Things (IoMT).
